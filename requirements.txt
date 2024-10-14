@@ -1,4 +1,9 @@
-transformers==4.20.1
-tensorflow==2.9.1
-fastapi==0.78.0
-uvicorn[standard]
+openai == 0.28.1
+python-dotenv==1.0.0
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+tiktoken==0.5.2
+langchain==0.0.329
+azure-identity==1.15.0
+
+
